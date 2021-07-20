@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gavinreid0/Team-Profile-Generator"
+  },
+  "author": "Gavin R",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinreid0/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/gavinreid0/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "jest": "^24.9.0"
+  }
+}
