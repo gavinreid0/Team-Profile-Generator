@@ -38,6 +38,8 @@ function addMember() {
         let roleInfo = "";
         if (role === "Engineer") {
             roleInfo = "GitHub username";
+        } else if (role === "Intern") {
+            roleInfo = "school name";
         } else {
             roleInfo = "office phone number";
         }
